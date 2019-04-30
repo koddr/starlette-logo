@@ -25,19 +25,18 @@ The small star is directed slightly up and to the right to show the dynamics of 
 
 <img width="480" src="https://user-images.githubusercontent.com/11155743/56979646-f7462280-6b82-11e9-89c9-f052176c3ab0.png" alt="Full logo" />
 
-Download: [SVG](https://github.com/koddr/starlette-logo/src/svg/starlette__full_logo__without_text__black.svg), [PNG](https://github.com/koddr/starlette-logo/src/png/starlette__full_logo__without_text__black.png)
-
 ## Full logo with additional text (color)
 
 <img width="480" src="https://user-images.githubusercontent.com/11155743/56979614-dbdb1780-6b82-11e9-823c-141322d4f844.png" alt="Full logo with additional text" />
-
-Download: [SVG](https://github.com/koddr/starlette-logo/src/svg/starlette__full_logo__with_text__black.svg), [PNG](https://github.com/koddr/starlette-logo/src/png/starlette__full_logo__with_text__black.png)
 
 ## Short logo (color)
 
 <img width="320" src="https://user-images.githubusercontent.com/11155743/56979626-e8f80680-6b82-11e9-9a54-9289d3289e45.png" alt="Short logo" />
 
-Download: [SVG](https://github.com/koddr/starlette-logo/src/svg/starlette__short_logo__black.svg), [PNG](https://github.com/koddr/starlette-logo/src/png/starlette__short_logo__black.png)
+## Download
+
+- Dark font color (default): [SVG](https://github.com/koddr/starlette-logo/tree/master/src/dark/svg), [PNG](https://github.com/koddr/starlette-logo/tree/master/src/dark/png)
+- Light font color: [SVG](https://github.com/koddr/starlette-logo/tree/master/src/light/svg), [PNG](https://github.com/koddr/starlette-logo/tree/master/src/light/png)
 
 ## Style Guide
 
