@@ -54,4 +54,4 @@ Star:
 
 ## Examples
 
-<img width="100%" src="https://github.com/koddr/starlette-logo/examples/starlette_full_logo_t-shirt_black.jpg" alt="Example t-thirt black" />
+<img width="100%" src="https://user-images.githubusercontent.com/11155743/56976612-07a6cf00-6b7c-11e9-9afa-2e181d75e796.jpg" alt="Example t-thirt black" />
