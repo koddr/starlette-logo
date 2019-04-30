@@ -11,7 +11,7 @@
 ## General Information
 
 * SVG files minify by [SVGO](https://github.com/svg/svgo) project with max optimize;
-* PNG files have `600x600` size and `transparent` background.
+* PNG files have `800x600` size and `transparent` background.
 
 ### History and main idea
 
@@ -37,24 +37,19 @@ Download: [SVG](), [PNG]()
 
 ### Font
 
-Text has been written in classical old English font, call [IM FELL English](https://fonts.google.com/specimen/IM+Fell+English) (by Igino Marini, Principal design).
+- Lead text has been written in [Gabriola Regular](https://docs.microsoft.com/en-us/typography/font-list/gabriola) (by John Hudson, Microsoft Corporation).
+- Additional text has been written in [Open Sans Light](https://fonts.google.com/specimen/Open+Sans) (by Steve Matteson, Principal design).
 
 ### Color
 
 Text:
 
-* HEX `#333333`, RGB `0, 0, 0`
+* HEX `#333333`, RGB `51, 51, 51`
 
-Bottle:
+Star:
 
-* Light elements — HEX `#BCE3F4`, RGB `188, 227, 244`
-* Dark elements — HEX `#99D5E8`, RGB `153, 213, 232`
+* Light elements — HEX `#FFDC65`, RGB `255, 220, 101`
+* Dark elements — HEX `#FDC850`, RGB `253, 200, 80`
 
-Cork from the bottle:
+## Examples
 
-* Light elements — HEX `#C49A6C`, RGB `196, 154, 108`
-* Dark elements — HEX `#B7895B`, RGB `183, 137, 91`
-
-Liquid in the bottle:
-
-* Gradient from HEX `#FFFF33` (RGB `255, 255, 51`) to HEX `#E83B3B` (RGB `232, 59, 59`)

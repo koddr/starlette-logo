@@ -1,6 +1,6 @@
 CC0 1.0 Universal (CC0 1.0)
 
-Copyright © 2019 Vic Shóstak <vikkyshostak@gmail.com> https://truewebartisans.com
+Copyright © 2019 Vic Shóstak (vikkyshostak@gmail.com) https://truewebartisans.com
 
 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL 
 SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT 
