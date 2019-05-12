@@ -7,6 +7,7 @@
 > 1. [Starlette](https://github.com/encode/starlette) is a little ASGI framework that shines. 🌟
 > 2. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Starlette community.
 > 3. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
+> 4. If you want to say «thank you», [become a Patron](https://www.patreon.com/bePatron?u=20124951).
 
 ## General Information
 
