@@ -62,3 +62,5 @@ Star:
 ## Examples
 
 <img width="100%" src="https://user-images.githubusercontent.com/11155743/56976612-07a6cf00-6b7c-11e9-9afa-2e181d75e796.jpg" alt="Example t-thirt black" />
+
+<img width="100%" src="https://user-images.githubusercontent.com/11155743/58097187-79a09000-7bdf-11e9-9a16-8c7065302e6a.jpg" alt="Example full hd logo" />
