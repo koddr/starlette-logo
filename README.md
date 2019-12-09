@@ -1,4 +1,4 @@
-# Official [Starlette](https://github.com/encode/starlette) ASGI Framework logo (with style guide)
+# Official [Starlette](https://github.com/encode/starlette) ASGI Python web framework logo (with style guide)
 
 [![logo version](https://img.shields.io/badge/version-2019.4-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 [![guide complete](https://img.shields.io/badge/style_guide-done-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
