@@ -59,8 +59,25 @@ Star:
 * Lighter elements — HEX `#FFF182`, RGB `255, 241, 130`
 * Dark elements — HEX `#FDC850`, RGB `253, 200, 80`
 
-## Examples
+## Real life examples
 
-<img width="100%" src="https://user-images.githubusercontent.com/11155743/56976612-07a6cf00-6b7c-11e9-9afa-2e181d75e796.jpg" alt="Example t-thirt black" />
+![Example t-thirt black](https://github.com/koddr/starlette-logo/blob/master/examples/starlette_logo_with_bg.jpg)
 
-<img width="100%" src="https://user-images.githubusercontent.com/11155743/58097187-79a09000-7bdf-11e9-9a16-8c7065302e6a.jpg" alt="Example full hd logo" />
+![Example full hd logo](https://github.com/koddr/starlette-logo/blob/master/examples/starlette_t-shirt.jpg)
+
+## Designer
+
+- [Vic Shóstak](https://github.com/koddr) (aka Koddr).
+
+## Project assistance
+
+If you want to say «thank you»:
+
+1. Add a GitHub Star to project.
+2. Twit about project [on your Twitter](https://twitter.com/intent/tweet?text=%F0%9F%96%BC%20Official%20Starlette%20ASGI%20Python%20Framework%20logo%20%28with%20style%20guide%29%3A%20https%3A%2F%2Fgithub.com%2Fkoddr%2Fstarlette-logo).
+3. Donate some money to project author via PayPal: [@paypal.me/koddr](https://paypal.me/koddr?locale.x=en_EN).
+4. Join DigitalOcean at my [referral link](https://m.do.co/c/b41859fa9b6e) (your profit is **$100** and I get $25).
+
+## License
+
+All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
