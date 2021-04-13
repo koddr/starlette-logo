@@ -4,7 +4,7 @@
 [![guide complete](https://img.shields.io/badge/style_guide-done-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 
 ## TL;TR
-1. [Starlette](https://github.com/encode/starlette) is a little ASGI framework that shines. 🌟
+1. [Starlette](https://github.com/encode/starlette) is a little ASGI framework that shines.
 2. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Starlette community.
 3. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
 
