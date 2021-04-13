@@ -1,13 +1,12 @@
-# Official [Starlette](https://github.com/encode/starlette) ASGI Python web framework logo (with style guide)
+# Official [Starlette](https://github.com/encode/starlette) logo (with style guide)
 
 [![logo version](https://img.shields.io/badge/version-2019.4-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 [![guide complete](https://img.shields.io/badge/style_guide-done-brightgreen.svg?style=flat-square)](https://github.com/koddr/quart-logo)
 
-> ### TL;TR
-> 1. [Starlette](https://github.com/encode/starlette) is a little ASGI framework that shines. 🌟
-> 2. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Starlette community.
-> 3. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
-> 4. If you want to say «thank you», [become a Patron](https://www.patreon.com/bePatron?u=20124951).
+## TL;TR
+1. [Starlette](https://github.com/encode/starlette) is a little ASGI framework that shines. 🌟
+2. Logo and style guide made by [Vic Shóstak](https://github.com/koddr) for Starlette community.
+3. All images in this repository have [Creative Commons license](https://creativecommons.org/share-your-work/public-domain/cc0) (CC0 1.0 Universal).
 
 ## General Information
 
