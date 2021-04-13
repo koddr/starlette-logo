@@ -70,7 +70,7 @@ Star:
 
 ## Project assistance
 
-If you want to say «thank you»:
+If you want to say thank you:
 
 1. Add a GitHub Star to project.
 2. Twit about project [on your Twitter](https://twitter.com/intent/tweet?text=%F0%9F%96%BC%20Official%20Starlette%20ASGI%20Python%20Framework%20logo%20%28with%20style%20guide%29%3A%20https%3A%2F%2Fgithub.com%2Fkoddr%2Fstarlette-logo).
